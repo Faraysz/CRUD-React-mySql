@@ -21,15 +21,17 @@ Project ini adalah contoh implementasi **CRUD (Create, Read, Update, Delete)** m
     GRANT ALL PRIVILEGES ON react_crud.* TO 'reactuser'@'localhost';
     FLUSH PRIVILEGES;
 
-2. jalankan project dengan :
+2. jalankan project di terminal vscode:
    ````
    cd backend
-3. jalankan server 
+3. jalankan server di terminal vscode:
    ```
    npm run dev
-4. ```
+4. buka terminal lagi, dan jalankan di terminal:
+   ```
    cd frontend
-5. ```
+5. lalu jalankan lagi di terminal:
+   ```
    npm run dev
    
 
